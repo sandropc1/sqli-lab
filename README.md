@@ -1,4 +1,4 @@
-# TCC-SQLi
+# SQLi Lab
 
 This repository contains the source code of the web application developed for my **Bachelor's thesis in Computer Engineering** for **UTFPR**.  
 The project focuses on studying **SQL Injection (SQLi)** vulnerabilities in a controlled environment, providing a foundation for understanding how they work, how they can be exploited, and what strategies can be applied to mitigate them.
@@ -25,8 +25,8 @@ This application was designed exclusively for **educational and research purpose
 ## 🛠️ Setup & Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sandropc1/TCC-SQLi.git
-   cd TCC-SQLi
+   git clone https://github.com/sandropc1/sqli-lab.git
+   cd sqli-lab
 
 2. Start the Docker environment:
    ```bash    
